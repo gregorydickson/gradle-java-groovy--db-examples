@@ -25,7 +25,7 @@ import java.sql.Statement
                       items c
                         on b.itemid = c.id
                       where c.name LIKE '%JAZZY%'
-                    """
+                  """
    	rs = st.executeQuery(query)
    	while(keepGoing) {
       if (!rs.next() ){
