@@ -1,25 +1,25 @@
 1. Reverse an array of characters in place
 Just a code snippet is fine here.
-- src/main/groovy/reversearray.groovy
+# src/main/groovy/reversearray.groovy
 
 2. Count the number of occurrences of a substring within a string
 Again, a code snippet is fine.
-- src/main/groovy/findstring.groovy
+# src/main/groovy/findstring.groovy
 
 3. Count the number of occurrences of a substring within a string using
 recursion
 A code snippet is fine here.
-- src/main/groovy/findstring.groovy
+# src/main/groovy/findstring.groovy
 
 4. Object Oriented Principles
 Implement the E-commerce problem defined in Appendix 1.
-- src/main/java/com/example
+# src/main/java/com/example
 
 5. SQL Query #1
 Assuming the classes you implemented in the E-commerce problem above get persisted
 in a database, write a SQL statement to retrieve the order number of all orders containing
 items with “JAZZY” in the name. Assume any table/field names within reason.
-- src/main/groovy/db.groovy
+# src/main/groovy/db.groovy
 
 6. SQL Query #2
 Assuming the classes you implemented in the E-commerce problem above get persisted
